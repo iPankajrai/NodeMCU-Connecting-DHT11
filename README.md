@@ -1,7 +1,7 @@
-# NodeMCU Connecting 
+# NodeMCU Connecting DHT11
 
 
-This is an example for DHT11 Humidity & Temp Sensor
+This is an example for DHT11 Humidity & Temp Sensor using NodeMCU
 
 // Connect VCC of the DHT11 sensor to 3.3V (NOT 5.0V!)
 // Connect GND to Ground
